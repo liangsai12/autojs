@@ -1,2 +1,2 @@
 # autojs
-auto.js
+auto.js脚本
