@@ -43,7 +43,7 @@ if(w > device.width*3/4){//红心的大致位置
     }
   } 
 });
-sleep(100);
+sleep(200);
 className("android.widget.ListView").scrollForward(); //下滑
 }
 while(text("邀请朋友").find().empty());
